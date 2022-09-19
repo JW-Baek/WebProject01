@@ -75,7 +75,7 @@ div.faq > a{display: block;width: 160px; height: 45px;
 .step2 > form  div.agree > ul{margin-bottom: 15px;}
 .step2 > form  div.agree > ul > li{background: url(../images/bg_list_dot.gif) no-repeat 0 50%;
     text-indent: 10px;line-height: 1.8;}
-.step2 > form  div.agree > ul > li > span{color: #0079cc;font-size: 20px;text-decoration: underline;}
+.step2 > form  div.agree > ul > li > span{color: #0079cc;font-size: 16px;text-decoration: underline;}
 .step2 > form  div.agree p:nth-last-of-type(1){text-align: right;}
 .step2 > form  div.agree p:nth-last-of-type(2){display: flex;justify-content: space-between;}
 
