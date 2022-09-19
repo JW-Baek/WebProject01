@@ -30,4 +30,5 @@ div.faq > p{font-size: 16px;line-height: 45px;}
 div.faq > a{display: block;width: 160px; height: 45px;
    background:#043285 url(../images/btn_arrow_ico_w.png) no-repeat 90% 50%;
    color: #fff; font-size: 16px; text-align: center;line-height: 45px;}
+div.faq > a:hover{font-size: 16px;}
 
